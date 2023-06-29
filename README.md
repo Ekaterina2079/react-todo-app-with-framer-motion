@@ -1,1 +1,1 @@
-# react-todo-app-with-framer-motion
+TodoMVC App with React hooks and Framer Motion
